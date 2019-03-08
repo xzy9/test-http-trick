@@ -1,0 +1,20 @@
+{
+  "name": "test-http-trick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-port": "^4.2.0",
+    "jsonfile": "^5.0.0",
+    "lodash": "^4.17.11",
+    "lru-cache": "^5.1.1",
+    "parse-domain": "^2.1.7",
+    "pem": "^1.14.2",
+    "query-string": "^6.3.0"
+  }
+}
